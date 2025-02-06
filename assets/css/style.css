@@ -15,7 +15,7 @@ header{
     text-align: center;
 background-color:#0075b1;
 margin: auto;
-width: 80%;
+width: 30%;
 font-weight: bold;
 color: white;
 }
@@ -27,7 +27,7 @@ header li a {
 /* Main*/
 main{
         background-color: white;
-        width:80%;
+        width:30%;
         margin: auto;
         text-align: center;
         t
@@ -59,7 +59,7 @@ main{
 footer{
     color: white;
     background-color: #024445;
-    width: 80%;
+    width: 30%;
     margin:auto;
     
 }
